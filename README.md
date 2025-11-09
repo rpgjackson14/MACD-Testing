@@ -1,6 +1,8 @@
 # MACD-Testing
 Takes Yahoo finance data from the given ticker variable and downloads, analyses and back-tests with a given sum, utilizing 5% of the portfolio each trade.
 
+It also utilises matplotlib to give very basic graphics detailing the stragegy and why it is a loser by itself.
+
 
 Download Instructions. 
 
@@ -8,4 +10,6 @@ Download Instructions.
 
 2) Download the libraries from the requirements.txt file.
 
-3) Run the exec and enjoy!
+How do run the code:
+
+Once in the correct directory of your code: simply run the python script by python Test.py or py Test.p
