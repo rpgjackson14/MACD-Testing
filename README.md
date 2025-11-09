@@ -3,6 +3,7 @@ Takes Yahoo finance data from the given ticker variable and downloads, analyses 
 
 It also utilises matplotlib to give very basic graphics detailing the stragegy and why it is a loser by itself.
 
+It is highly recommended to use a virtual envoirnment for this code to not have any compatability issues.
 
 Download Instructions. 
 
